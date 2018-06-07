@@ -1,0 +1,11 @@
+{
+    "gitbook": "2.6.7",
+    "plugins": [
+        "-search",
+        "-sharing",
+        "-fontsettings"
+    ],
+    "dependencies": {
+        "gitbook-plugin-fontsettings": "^2.0.0"
+    }
+}
