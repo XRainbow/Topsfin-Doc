@@ -1,9 +1,8 @@
 # Summary
 
-* [充佣宝](README.md)
-* [第一章](chapter1.md)
-* [第二章](jie-shao-ye-1.md)
-  * [2.1](jie-shao-ye-1/21.md)
-* 1111
-  * 222
+* [销冠资产操作手册](README.md)
+* [1.销冠资产模式概况](chapter1.md)
+  * [1.1销冠资产业务模式](chapter1/1ff09-xiao-guan-zi-chan-mo-shi.md)
+  * [1.2销冠资产业务角色](chapter1/12xiao-guan-zi-chan-ye-wu-jiao-se.md)
+* [2.销冠资产业务原则](2xiao-guan-zi-chan-ye-wu-yuan-ze.md)
 

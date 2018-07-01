@@ -1,15 +1,8 @@
-# 资产
+# 销冠资产操作手册
 
-~~**你好**~~
 
-在在在
 
-```bash
-var signUp = function(attrs) {
-  var user = saveUser(attrs);
-  welcomeUser(user);
-};
-```
+
 
 
 
