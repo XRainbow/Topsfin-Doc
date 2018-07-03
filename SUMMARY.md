@@ -18,13 +18,10 @@
   * [3.2 资方谈判](3shang-wu-tiao-kuan-tan-pan/32-zi-fang-tan-pan.md)
     * [3.2.1 项目推荐](3shang-wu-tiao-kuan-tan-pan/32-zi-fang-tan-pan/321-xiang-mu-tui-jian.md)
     * [3.2.2 合作准则](3shang-wu-tiao-kuan-tan-pan/32-zi-fang-tan-pan/322-he-zuo-biao-zhu.md)
-    * 3.2.3 投后跟进
-    * 3.2.4 项目结算
+    * [3.2.3 投后跟进](3shang-wu-tiao-kuan-tan-pan/32-zi-fang-tan-pan/323-tou-hou-gen-jin.md)
   * [3.3 去化团队谈判](3shang-wu-tiao-kuan-tan-pan/33-qu-hua-tuan-dui-tan-pan.md)
-    * 3.3.1 商务条件制定
+    * [3.3.1 商务条件制定](3shang-wu-tiao-kuan-tan-pan/33-qu-hua-tuan-dui-tan-pan/331-shang-wu-tiao-jian-zhi-ding.md)
 * [4.团队配置](4tuan-dui-fen-gong-yu-gang-wei-zhi-neng.md)
-  * 4.1 团队分工
+  * [4.1 团队分工](4tuan-dui-fen-gong-yu-gang-wei-zhi-neng/41-tuan-dui-fen-gong.md)
   * 4.2 岗位职能
-  * 4.3 作业流程
-  * 4.4 保密权限
 
