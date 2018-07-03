@@ -14,9 +14,14 @@
 * [3.商务条款谈判应用](3shang-wu-tiao-kuan-tan-pan.md)
   * [3.1开发商谈判](3shang-wu-tiao-kuan-tan-pan/31kai-fa-shang-tan-pan.md)
     * [3.1.1 保证金的使用](3shang-wu-tiao-kuan-tan-pan/31kai-fa-shang-tan-pan/311-bao-zheng-jin-shi-yong-fang-shi.md)
-    * 3.1.2 项目收入形式
+    * [3.1.2 收入与结算](3shang-wu-tiao-kuan-tan-pan/31kai-fa-shang-tan-pan/312-xiang-mu-shou-ru-xing-shi.md)
   * [3.2 资方谈判](3shang-wu-tiao-kuan-tan-pan/32-zi-fang-tan-pan.md)
+    * [3.2.1 项目推荐](3shang-wu-tiao-kuan-tan-pan/32-zi-fang-tan-pan/321-xiang-mu-tui-jian.md)
+    * [3.2.2 合作准则](3shang-wu-tiao-kuan-tan-pan/32-zi-fang-tan-pan/322-he-zuo-biao-zhu.md)
+    * 3.2.3 投后跟进
+    * 3.2.4 项目结算
   * [3.3 去化团队谈判](3shang-wu-tiao-kuan-tan-pan/33-qu-hua-tuan-dui-tan-pan.md)
+    * 3.3.1 商务条件制定
 * [4.团队配置](4tuan-dui-fen-gong-yu-gang-wei-zhi-neng.md)
   * 4.1 团队分工
   * 4.2 岗位职能
