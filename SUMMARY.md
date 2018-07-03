@@ -10,7 +10,7 @@
   * [2.4 杠杆使用](2xiao-guan-zi-chan-ye-wu-yuan-ze/23-gang-gan-shi-yong.md)
   * [2.5 营销费用使用](2xiao-guan-zi-chan-ye-wu-yuan-ze/24-ying-xiao-fei-yong-shi-yong.md)
   * [2.6 充佣宝工具使用](2xiao-guan-zi-chan-ye-wu-yuan-ze/25-chong-yong-bao-gong-ju-shi-yong.md)
-  * [2.7 利益分配原则](2xiao-guan-zi-chan-ye-wu-yuan-ze/27-li-yi-fen-pei-yuan-ze.md)
+  * [2.7 分配原则](2xiao-guan-zi-chan-ye-wu-yuan-ze/27-li-yi-fen-pei-yuan-ze.md)
 * [3.商务条款谈判应用](3shang-wu-tiao-kuan-tan-pan.md)
   * [3.1开发商谈判](3shang-wu-tiao-kuan-tan-pan/31kai-fa-shang-tan-pan.md)
     * [3.1.1 保证金的使用](3shang-wu-tiao-kuan-tan-pan/31kai-fa-shang-tan-pan/311-bao-zheng-jin-shi-yong-fang-shi.md)
