@@ -22,6 +22,5 @@
   * [3.3 去化团队谈判](3shang-wu-tiao-kuan-tan-pan/33-qu-hua-tuan-dui-tan-pan.md)
     * [3.3.1 商务条件制定](3shang-wu-tiao-kuan-tan-pan/33-qu-hua-tuan-dui-tan-pan/331-shang-wu-tiao-jian-zhi-ding.md)
 * [4.团队配置](4tuan-dui-fen-gong-yu-gang-wei-zhi-neng.md)
-  * [4.1 团队分工](4tuan-dui-fen-gong-yu-gang-wei-zhi-neng/41-tuan-dui-fen-gong.md)
-  * 4.2 岗位职能
+  * [4.1 团队岗位及分工](4tuan-dui-fen-gong-yu-gang-wei-zhi-neng/41-tuan-dui-fen-gong.md)
 
